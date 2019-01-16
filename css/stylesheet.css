@@ -6,6 +6,11 @@ body {
   padding: 4em 1em;
   color: #FF9900;
   background-color: #663366;
+  <script type="text/javascript" src="/kar_3.js"></script>
+	<script type="text/javascript">
+	snowStorm.flakesMax = 256;
+	snowStorm.flakesMaxActive = 128;
+	snowStorm.snowCharacter = '*';
 }
 
 h2 {
